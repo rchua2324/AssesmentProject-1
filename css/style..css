@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+.hero {
+    height: 50vh;
+}
+
+nav a:visited{
+    color: #DB0032;
+}
+nav a:hover{
+    background-color: #002E6D;
+}
+nav a:active{
+    background-color: #007934;
+}
+
+footer a:visited{
+    color: #DB0032;
+}
+footer a:hover{
+    background-color: #002E6D;
+}
+footer a:active{
+    background-color: #007934;
+}
