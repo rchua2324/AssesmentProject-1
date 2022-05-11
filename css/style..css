@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-    height: 50vh;
+    height: 100vh;
 }
 
 nav a:visited{
@@ -15,6 +15,13 @@ nav a:hover{
 nav a:active{
     background-color: #007934;
 }
+
+.jumbotron {
+    background-image: url(/img/grant-porter-Mx71xeQOev8-unsplash.jpg);
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+ }
 
 footer a:visited{
     color: #DB0032;
