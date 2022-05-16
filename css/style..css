@@ -2,9 +2,7 @@ body {
     background-color: bisque;
 }
 
-.hero {
-    height: 100vh;
-}
+/* Nav Bar */
 
 nav a:visited{
     color: #DB0032;
@@ -16,12 +14,35 @@ nav a:active{
     background-color: #007934;
 }
 
+/* Hero Image */
+
+.hero {
+    height: 100vh;
+}
+
 .jumbotron {
     background-image: url(/img/grant-porter-Mx71xeQOev8-unsplash.jpg);
     background-size: cover;
     height: 800px;
     background-position: center;
- }
+}
+
+ /* Upcoming Events */
+
+.img1 {
+    height: 150px;
+    width: none;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+/* Carousel */
+
+.carousel {
+    width: 100%;
+}
+
+/* footer */
 
 footer a:visited{
     color: #DB0032;
